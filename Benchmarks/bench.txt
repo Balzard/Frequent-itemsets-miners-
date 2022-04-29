@@ -1,0 +1,1 @@
+0.196 seconds on chess dataset for 0.9 frequency3.204 seconds on chess dataset for 0.8 frequency61.867 seconds on chess dataset for 0.7 frequency
